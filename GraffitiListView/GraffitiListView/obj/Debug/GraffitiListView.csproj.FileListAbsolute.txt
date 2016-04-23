@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\GraffitiListView\GraffitiListView\bin\GraffitiListView.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\GraffitiListView\GraffitiListView\bin\GraffitiListView.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\GraffitiListView\GraffitiListView\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\GraffitiListView\GraffitiListView\obj\Debug\GraffitiListView.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\GraffitiListView\GraffitiListView\obj\Debug\GraffitiListView.pdb
